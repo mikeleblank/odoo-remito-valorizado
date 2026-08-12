@@ -620,6 +620,3 @@ sum(
 
 ---
 
-## Autor
-
-Documentación preparada para implementación y mantenimiento de reportes personalizados en Odoo 19 Online.
